@@ -4,7 +4,7 @@
 
 **🌐 Language:** English | [Русский](README-ru.md)
 
-**Professional CoinMarketCap API v1 Integration for Go Applications**
+**Professional CoinMarketCap API v1 Integration for Golang Applications**
 
 A modern, production-ready Go package that provides seamless integration with the CoinMarketCap cryptocurrency API.
 Built for Go developers who need reliable access to real-time cryptocurrency prices, market data, exchange information,
@@ -16,7 +16,7 @@ Whether you're building a cryptocurrency portfolio tracker, a crypto trading bot
 integrating real-time Bitcoin and Ethereum prices into your Go application, this package provides everything you need:
 
 - **Production-Ready**: Battle-tested code with comprehensive error handling for cryptocurrency API integration
-- **Developer-Friendly**: Intuitive fluent interface designed specifically for Go developers
+- **Developer-Friendly**: Intuitive fluent interface designed specifically for Golang developers
 - **Type-Safe**: Full Go type safety with structured error handling
 - **Well-Documented**: Extensive documentation with real-world cryptocurrency integration examples
 - **Performance Optimized**: Efficient HTTP client implementation for fast cryptocurrency data retrieval
@@ -68,7 +68,7 @@ This CoinMarketCap API wrapper enables you to create:
 
 ## Requirements
 
-- Go 1.21 or higher
+- Golang 1.21 or higher
 - CoinMarketCap API key ([Get one here](https://coinmarketcap.com/api/))
 
 ## 📦 Installation Guide
