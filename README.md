@@ -4,6 +4,8 @@
 
 **🌐 Language:** English | [Русский](README-ru.md)
 
+**📦 Package:** [coinmarketcap package](https://pkg.go.dev/github.com/tigusigalpa/coinmarketcap-go)
+
 **Professional CoinMarketCap API v1 Integration for Golang Applications**
 
 A modern, production-ready Go package that provides seamless integration with the CoinMarketCap cryptocurrency API.
